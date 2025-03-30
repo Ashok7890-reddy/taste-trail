@@ -20,6 +20,8 @@ npm i
 
 # Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
+
+# Step 5: Wanna know about the database - just create project in the supabase and create a project id , copy paste the id in the supabase module .
 ```
 
 **Edit a file directly in GitHub**
